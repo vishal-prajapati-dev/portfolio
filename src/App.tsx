@@ -248,28 +248,28 @@ function App() {
                 <div className="space-y-4">
                   <div className="flex items-center">
                     <Mail className="w-5 h-5 text-green-500 mr-3" />
-                    <span className="text-gray-300">your.email@example.com</span>
+                    <span className="text-gray-300">prajapativishal1545@gmail.com</span>
                   </div>
                   <div className="flex items-center">
                     <Phone className="w-5 h-5 text-green-500 mr-3" />
-                    <span className="text-gray-300">+1 (555) 123-4567</span>
+                    <span className="text-gray-300">+91 95105 95866</span>
                   </div>
                   <div className="flex items-center">
                     <MapPin className="w-5 h-5 text-green-500 mr-3" />
-                    <span className="text-gray-300">Your City, Country</span>
+                    <span className="text-gray-300">Ahmedabad, Gujarat, India</span>
                   </div>
                 </div>
                 
                 <div className="mt-8">
                   <h4 className="text-lg font-semibold mb-4 text-white">Follow Me</h4>
                   <div className="flex space-x-4">
-                    <a href="#" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
+                    <a href="https://github.com/vishal-prajapati-dev" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
                       <Github className="w-6 h-6" />
                     </a>
-                    <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors duration-200">
+                    <a href="https://www.linkedin.com/in/vishalkumar-prajapati-436221336/" className="text-gray-400 hover:text-blue-400 transition-colors duration-200">
                       <Linkedin className="w-6 h-6" />
                     </a>
-                    <a href="#" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
+                    <a href="mailto:prajapativishal1545@gmail.com" className="text-gray-400 hover:text-green-400 transition-colors duration-200">
                       <Mail className="w-6 h-6" />
                     </a>
                   </div>
