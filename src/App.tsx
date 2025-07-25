@@ -307,7 +307,7 @@ function App() {
       <footer className="bg-gray-800 border-t border-gray-700 py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <p className="text-gray-400">
-            © 2024 Node.js Developer Portfolio. Built with React and Tailwind CSS.
+            © 2024 My Portfolio. Built with React and Tailwind CSS.
           </p>
         </div>
       </footer>
